@@ -1,0 +1,24 @@
+export type Job = {
+  id: number;
+  position_title: string;
+  location: string;
+  employment_type: string;
+  work_preference: string;
+  seniority: string;
+  experience: string;
+  salary_from: string;
+  salary_to: string;
+  salary_frequency: string;
+  applicants: number;
+  status: string;
+  created_at: string;
+  deadline: string;
+  education: string;
+  requires_visa_sponsorship: boolean;
+  slug: string;
+  position_overview: string;
+  responsibilities: string;
+  qualifications: string;
+  recruiter_id: number;
+  company_id: number;
+};
