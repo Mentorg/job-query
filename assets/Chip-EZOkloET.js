@@ -1,1 +1,0 @@
-import{j as t}from"./index-2jHbxyPx.js";function x({icon:s,className:e,children:n}){return t.jsxs("span",{className:e,children:[s,t.jsx("p",{className:"ml-1 text-xs font-normal text-white",children:n})]})}export{x as C};
